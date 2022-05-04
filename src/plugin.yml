@@ -1,6 +1,9 @@
 name: snShield
 version: 1.0.0
 main: me.snow.shield.snShield
+depend:
+  - Factions
+  - MassiveCore
 commands:
   pontos:
   escudo:
