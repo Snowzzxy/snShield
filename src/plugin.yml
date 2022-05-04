@@ -1,0 +1,6 @@
+name: snShield
+version: 1.0.0
+main: me.snow.shield.snShield
+commands:
+  pontos:
+  escudo:

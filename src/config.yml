@@ -1,0 +1,30 @@
+#Permissões:
+#
+#Dar Pontos - shield.givepoints
+#Retirar Pontos - shield.removepoints
+#
+
+Upgrades:
+  I: 250.0
+  II: 500.0
+  III: 750.0
+
+Mobs:
+  Cow: 0.1
+  Zombie: 0.1
+  Spider: 0.2
+  Skeleton: 0.2
+  Blaze: 0.3
+  Pigman: 0.3
+  Golem: 0.4
+  Wither: 0.5
+
+Escudo:
+  ComprarEscudo: 250.0
+  Duracao: 5 #Duração default do escudo em Horas
+
+Mensagens:
+  ActionBar: '&a+{quantia} Pontos'
+  EscudoComprado: '&a[{tag}] Yeah! Um escudo foi comprado para sua facção'
+  EscudoTerminou: '&c[{tag}] Oh! O escudo da sua facção terminou'
+  TentandoAtaque: '&a[Escudo] Ei, Alguma facção esta tentando colocar em ataque'
